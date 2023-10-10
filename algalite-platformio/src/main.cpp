@@ -19,8 +19,8 @@ The main features are
 
 
 // Replace with your network credentials
-const char* ssid = "XXXXXXXX";
-const char* password = "XXXXXXXX";
+const char* ssid = "WiFimodem-DE58";
+const char* password = "qjmx2mlfdz";
 
 // Define pin numbers and other constants
 const int neoPixelPin = 33;
