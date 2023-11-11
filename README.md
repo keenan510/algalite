@@ -21,5 +21,5 @@ This project is licensed under the Creative Commons License (CC BY-NC)
 | 1        | BBC Microbit Alternative MCU for learning/educational setting |
 | 1        | 3V air pump                                                   |
 | 1        | DC-DC converter Step down power converter                     |
-| 1        | Neopixel ring                                                 |
-| 1        | Container                                                     |
+| 1        | 12 pixel Neopixel ring                                        |
+| 1        | Container (Erlenmeyer or Culture Flask, or Round Flask)       |
